@@ -1,8 +1,1 @@
-second commit with author sunnie
-7th commit
-<<<<<<< HEAD
-XXXXXXXXXXXXXXXXX
-commit to tmp2
-=======
-XXXXXXXXXXXXXXXXX
->>>>>>> parent of f09de4b... Commit by Git GUI
+456
